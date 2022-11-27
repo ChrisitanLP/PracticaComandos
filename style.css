@@ -8,3 +8,10 @@ h1{
 	color: #fff;
 	font-size: 5px;
 }
+
+header{
+	margin: 50px;
+	padding: 20px;
+	border-radius: 10px;
+	background: #000;
+}
