@@ -1,0 +1,5 @@
+tmp chequeos
+tmp errores
+*.err
+*.log
+*.class
